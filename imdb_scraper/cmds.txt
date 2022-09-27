@@ -1,0 +1,3 @@
+cd C:\Users\Strange320\Downloads\imdb_scraper\imdb_scraper
+
+scrapy crawl imdb_scraper -o imdb_series.csv
